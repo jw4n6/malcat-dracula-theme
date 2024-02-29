@@ -1,5 +1,5 @@
 # Malcat Dracula Theme
-Dracula theme for [Malcat](https://malcat.fr/index.html)
+[Dracula](https://draculatheme.com/) theme for [Malcat](https://malcat.fr/index.html)
 
 Place the theme in "MALCAT/data/themes/dracula.ini"
 
