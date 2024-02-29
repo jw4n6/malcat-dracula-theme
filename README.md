@@ -1,7 +1,7 @@
 # Malcat Dracula Theme
 Dracula theme for [Malcat](https://malcat.fr/index.html)
 
-Place the theme in <malcat install dir>/data/themes/dracula.ini
+Place the theme in "MALCAT/data/themes/dracula.ini"
 
 ## Theme Preview
 
